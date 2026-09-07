@@ -1,0 +1,8 @@
+{
+  "name": "PASOP",
+  "description": "A scam reporting and resource center for South Africa. Report, track, and get alerts on the latest scams to stay informed and safe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
